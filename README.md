@@ -15,4 +15,4 @@ Has 10 nerons and follows the same restrictions as the first layer. This layer i
 ## Documentation
 For full project description, please refer to Description.pdf.
 
-Datapath and Controller figures are also available at REPORT.pdf.
+Datapath and Controller figures are also available at CAD#4_REPORT.pdf.
