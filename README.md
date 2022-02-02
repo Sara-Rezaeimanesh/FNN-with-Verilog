@@ -13,6 +13,6 @@ Has 30 neurons but due to limited resources, only 8 neurons can work at a time a
 Has 10 nerons and follows the same restrictions as the first layer. This layer is the output layer and the index of the neuron with the largest output indicates the class that each input belongs to.
 
 ## Documentation
-For full project description, please refer to project.pdf.
+For full project description, please refer to Description.pdf.
 
 Datapath and Controller figures are also available at REPORT.pdf.
